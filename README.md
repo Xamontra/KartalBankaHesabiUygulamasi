@@ -1,0 +1,2 @@
+# KartalBankaHesabiUygulamasi
+KartalBankaHesabiUygulamasi Projesidir.Python ile yazılmıştır
